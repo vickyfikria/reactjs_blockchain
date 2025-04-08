@@ -5,7 +5,7 @@ learn path from JSMastery Web3 development.
 
 ### Installing Vite
 ```
-npm 
+npm init vite@latest 
 ```
 ### Installing Tailwind CSS :
 ```
